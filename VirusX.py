@@ -14,7 +14,7 @@ B = '\033[1;34m' #Blue
 os.system("cd banner;python2 banner4.py")
 print
 print ("\033[49m                   Welcome To Virus-X                     \033[0m")
-print ("\033[48m                   Author: Trilok Singh                   \033[0m")
+print ("\033[48m                   Author: THE GANSTAAA                   \033[0m")
 print
 
 os.system("cd banner;python2 table.py")
